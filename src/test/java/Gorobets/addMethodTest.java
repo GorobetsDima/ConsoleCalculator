@@ -1,5 +1,9 @@
 package Gorobets;
-
+/**
+ * @author Gorobets Dmitriy
+ *         <p>
+ *         It's test for add method
+ */
 
 import org.junit.Before;
 import org.junit.Test;

@@ -1,5 +1,10 @@
 package Gorobets;
 
+/**
+ * @author Gorobets Dmitriy
+ *
+ *        It's a test for divide method
+ */
 
 import org.junit.Before;
 import org.junit.Test;

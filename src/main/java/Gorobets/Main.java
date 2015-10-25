@@ -6,7 +6,7 @@ package Gorobets;
  *         In class Main I create a instance of Calculator.class
  *         Before that I check whether a number is a double type or not
  *         And figure out how many arguments was entered
- *         which way to use for a calculation in the constructor
+ *         which way to use for a calculation in  the constructor
  */
 public class Main {
     public static void main(String[] args) {

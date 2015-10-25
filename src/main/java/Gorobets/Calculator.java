@@ -7,7 +7,7 @@ package Gorobets;
  *         There is checked an operator and according to the operator chooses,
  *         which way to use for a calculation in the constructor
  *         <p>
- *         First argument is "firstArg"-it have to be a double type
+ *         First argument is "firstArg"- it have to be a double type
  *         <p>
  *         Second argument is "operator"-it have to be an operator
  *         <p>
